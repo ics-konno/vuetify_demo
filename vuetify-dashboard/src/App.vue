@@ -48,6 +48,7 @@ export default {
     links: [
       { label: "HOME", path: "/" },
       { label: "LOGIN", path: "/login" },
+      { label: "Dashboard", path: "/dashboard" },
     ],
   }),
 };
