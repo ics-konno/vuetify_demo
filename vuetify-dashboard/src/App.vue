@@ -49,6 +49,7 @@ export default {
       { label: "HOME", path: "/" },
       { label: "LOGIN", path: "/login" },
       { label: "Dashboard", path: "/dashboard" },
+      { label: "Signup", path: "/signup" },
     ],
   }),
 };
